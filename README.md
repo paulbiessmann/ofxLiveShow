@@ -1,6 +1,7 @@
 # ofxLiveShow
 
 My Setup for audioreactive and interactive Live Shows. Paul Bießmann 2019
+Still called ClusterDuo, since I started there to build one Framework for all shows.
 
 ## Getting Started
 
@@ -127,6 +128,12 @@ See also his [website](http://paul.biessmann.de)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+## Acknowledgements
+
+* [The Book of Shaders](https://thebookofshaders.com) for the fractal brownian motion scene
+* Satoshi Okami for his implementation of the Boids in ofxVoro
 
 
 
