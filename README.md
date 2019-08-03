@@ -11,17 +11,18 @@ openFrameworks v0.9.8_osx_release [get it here](https://openframeworks.cc/downlo
 ### Xcode Build Settings
 
 Change Build Settings:
-Since Xcode 10 with High Sierra when first building a solution, go in Xcode to your Project -> Build Settings -> OF_CORE_FRAMEWORKS -> Remove "-framework Quicktime"
+Since Xcode 10 with High Sierra when first building a solution, go in Xcode to your 
+Project -> Build Settings -> OF_CORE_FRAMEWORKS -> Remove "-framework Quicktime"
 
 
 ### Addons
 
-[ofxDOF](https://github.com/obviousjim/ofxDOF)
-[ofxFFT](https://github.com/julapy/ofxFFT)
-[ofxGpuParticles](https://github.com/neilmendoza/ofxGpuParticles)
-[ofxGui](https://openframeworks.cc/documentation/ofxGui/) should already be in Addons folder
-[ofxMidi](https://github.com/danomatika/ofxMidi)
-[ofxVoro](https://github.com/patriciogonzalezvivo/ofxVoro)
+* [ofxDOF](https://github.com/obviousjim/ofxDOF)
+* [ofxFFT](https://github.com/julapy/ofxFFT)
+* [ofxGpuParticles](https://github.com/neilmendoza/ofxGpuParticles)
+* [ofxGui](https://openframeworks.cc/documentation/ofxGui/) should already be in Addons folder
+* [ofxMidi](https://github.com/danomatika/ofxMidi)
+* [ofxVoro](https://github.com/patriciogonzalezvivo/ofxVoro)
 
 
 ## Controlling
@@ -115,13 +116,6 @@ fadeToBlack
 * ofSetBackgroundAuto() does not work in some functions (drawBoxes and drawCircles). Sometimes works, but unstable.
 * maybe the drawing/update routine is too big? Sometimes bDrawANYTHING gets not changed correctly. Think of another strategy to make scenes. 
 
-
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
