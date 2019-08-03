@@ -1,6 +1,7 @@
 # ofxLiveShow
 
 My Setup for audioreactive and interactive Live Shows. Paul Bießmann 2019
+
 Still called ClusterDuo, since I started there to build one Framework for all shows.
 
 ## Getting Started
