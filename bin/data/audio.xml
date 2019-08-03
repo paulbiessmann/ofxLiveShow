@@ -1,0 +1,22 @@
+<group>
+    <audioThreshold>1</audioThreshold>
+    <audioPeakDecay>0.97</audioPeakDecay>
+    <audioMaxDecay>0.965</audioMaxDecay>
+    <cloudDisplacement>200</cloudDisplacement>
+    <audioMirror>1</audioMirror>
+    <Kinect_Angle>-10</Kinect_Angle>
+    <Kinect_Far_Thresh>1790</Kinect_Far_Thresh>
+    <Kinect_Near_Thresh>676</Kinect_Near_Thresh>
+    <group/>
+    <Tunnel_Speed>2</Tunnel_Speed>
+<guiNoise>0.165</guiNoise>
+	<danceSize>0.1</danceSize>
+	<focalDistance>10</focalDistance>
+<drawLine>1</drawLine>
+	<bAutoCam>1</bAutoCam>
+	<cellSize>0</cellSize>
+	<camSpeed>0.04</camSpeed>
+<focalRange>50</focalRange>
+	<camRotSpeed>0.08</camRotSpeed>
+	<camDistSpeed>0.08</camDistSpeed>
+</group>
